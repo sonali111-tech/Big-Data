@@ -18,6 +18,8 @@ for line in sys.stdin:
     
 def first_task(record,word):
 	
+# Edit: 1
+	
 	
 	
 	
